@@ -1,4 +1,6 @@
-var a = InputEvent
+Number(#a)
+var a = #a
+console.log(a)
 
 function soma(a,b){
     if (!Number) != true
